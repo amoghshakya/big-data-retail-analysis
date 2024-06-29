@@ -1,0 +1,8 @@
+# dataset
+dataset/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# .virtual_documents
+.virtual_documents/
